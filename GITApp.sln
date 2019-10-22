@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITApp", "GITApp\GITApp.csproj", "{BA42B4A2-3535-4817-ABC3-2593CA8F1054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA42B4A2-3535-4817-ABC3-2593CA8F1054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA42B4A2-3535-4817-ABC3-2593CA8F1054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA42B4A2-3535-4817-ABC3-2593CA8F1054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA42B4A2-3535-4817-ABC3-2593CA8F1054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
